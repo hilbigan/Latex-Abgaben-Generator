@@ -1,3 +1,4 @@
+:: CREDITS: rojo - https://stackoverflow.com/a/15413717
 :: --------------------
 :: ini.bat
 :: ini.bat /? for usage
