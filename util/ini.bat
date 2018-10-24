@@ -3,6 +3,9 @@
 :: ini.bat
 :: ini.bat /? for usage
 :: --------------------
+::
+:: Read:
+:: for /f "delims=" %%a in ('call ini.bat /s SECTOR /i SETTING_NAME FILE.ini') do @set SETTING_NAME=%%a
 
 @echo off
 setlocal enabledelayedexpansion
