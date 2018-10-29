@@ -14,3 +14,4 @@ echo autor=%autor% >>settings.ini
 echo num=1 >>settings.ini
 
 del create.bat
+del README.md
