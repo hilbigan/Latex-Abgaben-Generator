@@ -13,5 +13,6 @@ echo gruppe=%gruppe% >>settings.ini
 echo autor=%autor% >>settings.ini
 echo num=1 >>settings.ini
 
-del create.bat
+cd ..
 del README.md
+del create.bat
